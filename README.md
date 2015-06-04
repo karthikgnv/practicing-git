@@ -2,6 +2,8 @@
 
 As an exercise:
 
+HERE IS MY NAME:  Rebekah (so nice they named a mountain after her) Everest!!!!!!!
+
 1. Clone this repository
 2. Create a branch that matches your github name
 3. Checkout that branch
