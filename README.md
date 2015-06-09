@@ -12,3 +12,10 @@ As an exercise:
 8. Commit that change
 9. Push the branch back to Github
 10. Open a pull-request to merge your branch.
+
+
+## Gitters
+
+* Franklin Webber
+
+
