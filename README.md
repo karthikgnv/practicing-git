@@ -16,3 +16,5 @@ As an exercise:
 Steve Del Fante was here.
 
 Red was too.
+
+Brian is practicing in GIT. yee haw
